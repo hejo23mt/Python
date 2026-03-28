@@ -1,3 +1,6 @@
+"""Radius to area calculator"""
+
+
 import math as m
 
 radius = float(input('Radius '))
